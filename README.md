@@ -1,3 +1,6 @@
+<img width="426" height="240" alt="808-1790462380-338530053" src="https://github.com/user-attachments/assets/cd81a7b7-a229-4809-8c41-5526076a2d91" />
+
+
 🛡️ Smart CQB (Auto Melee Switch)
 
 Cansado de microgerenciar seus atiradores quando um inimigo os alcança no combate corpo a corpo?
