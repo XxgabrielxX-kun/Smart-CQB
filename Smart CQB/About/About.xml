@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Smart CQB</name>
+  <author>XxgabrielxX_kun</author>
+  <packageId>XxgabrielxXkun.smartcqb</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>[PT-BR]
+Um mod leve de Quality of Life que faz seus colonos trocarem automaticamente para armas de corpo a corpo quando um inimigo se aproxima, e voltarem para a arma de fogo quando a ameaça é eliminada.
+Requer o Harmony para funcionar.
+
+[EN]
+A lightweight Quality of Life mod that makes your colonists automatically switch to melee weapons when an enemy gets close, and switch back to their ranged weapon when the threat is eliminated.
+Requires Harmony.
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009182588</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+</ModMetaData>
