@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Smart CQB</name>
+  <author>XxgabrielxXkun</author>
+  <packageId>XxgabrielxXkun.smartcqb</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>SmartCQB (Close Quarters Battle)
+
+Quando um inimigo chega muito perto de um colono, ele troca automaticamente a arma de fogo/distância por uma arma corpo a corpo que esteja no inventário dele. A arma corpo a corpo funciona como arma secundária: ela nunca sai do inventário do colono (a arma principal vai para o inventário enquanto a melee está na mão, e volta quando a luta acaba).
+
+Como usar:
+- Selecione o colono e clique com o botão direito numa arma corpo a corpo no chão: "Equipar [arma] como secundária".
+- O colono pega a arma e guarda no inventário. Ela fica protegida: "Descarregar inventário" não a leva embora, então você não precisa pegar de novo toda vez.
+- Quando um inimigo chegar perto, ele troca sozinho. Quando o perigo passar, volta para a arma principal.
+
+Opções (Opções do mod): distância para trocar, distância para voltar, tempo de calma e "só quando convocado".
+
+Requer Harmony.</description>
+</ModMetaData>

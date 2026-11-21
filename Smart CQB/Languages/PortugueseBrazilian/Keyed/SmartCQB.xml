@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmartCQB_TriggerDistance>Distância do inimigo para trocar para corpo a corpo: {0} casas</SmartCQB_TriggerDistance>
+  <SmartCQB_ReleaseDistance>Distância para considerar o perigo encerrado: {0} casas</SmartCQB_ReleaseDistance>
+  <SmartCQB_CalmSeconds>Segundos sem inimigo por perto antes de voltar à arma principal: {0}</SmartCQB_CalmSeconds>
+  <SmartCQB_OnlyDrafted>Trocar só quando o colono estiver convocado (modo draft)</SmartCQB_OnlyDrafted>
+
+  <SmartCQB_EquipSecondary>Equipar {0} como secundária</SmartCQB_EquipSecondary>
+  <SmartCQB_Forbidden>proibido</SmartCQB_Forbidden>
+  <SmartCQB_NoPath>sem caminho</SmartCQB_NoPath>
+</LanguageData>

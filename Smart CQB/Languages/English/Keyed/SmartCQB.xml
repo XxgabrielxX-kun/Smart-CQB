@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmartCQB_TriggerDistance>Enemy distance to switch to melee: {0} cells</SmartCQB_TriggerDistance>
+  <SmartCQB_ReleaseDistance>Distance at which the danger counts as over: {0} cells</SmartCQB_ReleaseDistance>
+  <SmartCQB_CalmSeconds>Seconds without a nearby enemy before returning to the main weapon: {0}</SmartCQB_CalmSeconds>
+  <SmartCQB_OnlyDrafted>Only switch while the colonist is drafted</SmartCQB_OnlyDrafted>
+
+  <SmartCQB_EquipSecondary>Equip {0} as secondary</SmartCQB_EquipSecondary>
+  <SmartCQB_Forbidden>forbidden</SmartCQB_Forbidden>
+  <SmartCQB_NoPath>no path</SmartCQB_NoPath>
+</LanguageData>
